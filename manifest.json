@@ -1,0 +1,8 @@
+{
+  "short_name": "FrEd",
+  "name": "FrEd: Fractal Editor",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#305dd9",
+  "background_color": "#242424"
+}

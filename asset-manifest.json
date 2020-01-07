@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fred/static/css/main.745a8d85.chunk.css",
+    "main.js": "/fred/static/js/main.495c48fb.chunk.js",
+    "runtime-main.js": "/fred/static/js/runtime-main.801213b8.js",
+    "static/js/2.a75547cf.chunk.js": "/fred/static/js/2.a75547cf.chunk.js",
+    "index.html": "/fred/index.html",
+    "precache-manifest.1daf275d1926517957344c401c429b17.js": "/fred/precache-manifest.1daf275d1926517957344c401c429b17.js",
+    "service-worker.js": "/fred/service-worker.js",
+    "static/js/2.a75547cf.chunk.js.LICENSE": "/fred/static/js/2.a75547cf.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.801213b8.js",
+    "static/js/2.a75547cf.chunk.js",
+    "static/css/main.745a8d85.chunk.css",
+    "static/js/main.495c48fb.chunk.js"
+  ]
+}
